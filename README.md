@@ -1,7 +1,13 @@
 # Do not translate me - dataset listing entities that should not be modified in the translation process.
 
 
-## This repository contains the dataset used in the paper: Do Not Change Me: On Transferring Entities Without Modification in Neural Machine Translation -- a Multilingual Perspective (accepted at MTSummit 2025)
+## What is this?
+
+This repository contains the dataset used in the paper: 
+
+Do Not Change Me: On Transferring Entities Without Modification in Neural Machine Translation -- a Multilingual Perspective (accepted at MTSummit 2025)
+
+## And how about some more details?
 
 In this work, we investigate how modern machine translation systems handle non-translatable entities — like emails, phone numbers, URLs, or emojis — and whether they preserve them correctly across languages. Surprisingly, even state-of-the-art systems often struggle!
 
