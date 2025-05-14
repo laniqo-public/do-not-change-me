@@ -1,4 +1,4 @@
-# Do not translate me - dataset listing entities that should not be modified in the translation process.
+# Do not change me - dataset listing entities that should not be modified in the translation process.
 
 
 ## What is this?
